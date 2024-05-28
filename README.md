@@ -39,3 +39,54 @@ tba
 
 ---
 
+## Quick Start Guide
+tba
+
+---
+
+## Features
+
+### Music Player
+tba
+
+#### Adding local files
+tba
+
+#### Play List
+tba
+
+#### Play Mode
+tba
+
+#### Search and Filter
+tba
+
+#### Add to Favorites
+tba
+
+#### Floating window
+tba
+
+#### Menu Bar
+tba
+
+### Pomodoro Timer
+tba
+
+#### Timer Settings
+tba
+
+#### Actions after Work/Break
+tba
+
+#### Software Blacklist
+tba
+
+### Control other Players
+tba
+
+#### Play controls
+tba
+
+#### Stash
+tba
