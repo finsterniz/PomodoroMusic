@@ -1,6 +1,8 @@
-# Pomodoro Music
+# Pomodoro Music (MacOS)
 
 ## Youtube showcase Video: tba
+
+## [Click Here to download](https://github.com/finsterniz/PomodoroMusic/raw/main/PomodoroMusic.dmg)
 
 ---
 
