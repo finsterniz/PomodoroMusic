@@ -1,6 +1,6 @@
 # Pomodoro Music (MacOS)
 
-## Youtube showcase Video: tba
+## Youtube showcase Video: https://youtu.be/E0Z3ON0D1VM
 
 ## [Click Here to download](https://github.com/finsterniz/PomodoroMusic/raw/main/PomodoroMusic.dmg)
 
@@ -72,8 +72,9 @@ tba
 #### Menu Bar
 tba
 
+---
+
 ### Pomodoro Timer
-tba
 
 #### Timer Settings
 tba
@@ -84,8 +85,9 @@ tba
 #### Software Blacklist
 tba
 
+---
+
 ### Control other Players
-tba
 
 #### Play controls
 tba
