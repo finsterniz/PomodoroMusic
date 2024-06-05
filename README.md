@@ -70,6 +70,8 @@ Open the dmg file, drag "PomodoroMusic" into "Application" to finish installatio
 #### Floating window
 Using the floating window, you can perform basic operations such as pausing, skipping songs, and adding the currently playing song to ‘My Favorites’. While controlling other player with PomodoroMusic, the floating window can also be used to control.
 
+When your mouse leaves the floating window, it will display the remaining time of the current timer.
+
 ![img](images/floating-window.gif)
 
 #### Menu Bar
