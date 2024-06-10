@@ -1,5 +1,7 @@
 # Pomodoro Music (MacOS)
 
+![img](images/icon.png)
+
 ## Youtube showcase Video: https://youtu.be/E0Z3ON0D1VM
 
 ## [Click Here to download](https://github.com/finsterniz/PomodoroMusic/raw/main/PomodoroMusic.dmg)
@@ -26,6 +28,7 @@
     - [Play controls](#basic-control)
     - [Stash](#stash)
 ---
+
 ## Why Pomodoro Music
 
 Do you like using a Pomodoro timer and listening to music while working/studying?
